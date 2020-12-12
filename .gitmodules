@@ -10,6 +10,3 @@
 [submodule "lightning"]
 	path = lightning
 	url = https://github.com/minetest-mods/lightning.git
-[submodule "sailing_kit"]
-	path = sailing_kit
-	url = https://github.com/t-affeldt/sailing_kit.git
